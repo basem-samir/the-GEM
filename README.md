@@ -56,7 +56,6 @@
 
 - الاسم: **Basem Samir**
 - البريد: `basemsamir.dev@gmail.com`
-- [🔗 معرض أعمالي](https://basem-samir.github.io/)
 
 ## 📄 الترخيص
 
